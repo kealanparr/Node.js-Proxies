@@ -1,0 +1,16 @@
+{
+  "name": "proxies",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A simple Node script to scrape using proxies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KealanP",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^7.0.4",
+    "node-fetch": "^3.3.2"
+  }
+}
